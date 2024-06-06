@@ -14,7 +14,7 @@ I'm a Backend Developer specializing in WordPress Plugins.
 
 ## Experience
 
-- 🌎 Currently working as a **Fullstack Wordpress PLugin Developer** at [QuadLayers]([https://quadlayers.com/]).
+- 🌎 Currently working as a **Fullstack Wordpress PLugin Developer** at [QuadLayers](https://quadlayers.com/).
 - 💡 Currently creating a startup **Purrfect Web Design** for [Purrfect Web Design](https://purrfectweb.com/).
 
 <br />
