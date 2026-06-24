@@ -22,7 +22,7 @@ I'm a Full Stack Developer focused on WordPress, WooCommerce, React, and custom 
 * 🌎 Full Stack Developer at **Elevation Web**
 * 🚀 Former Full Stack Developer at **QuadLayers**
 * 🔌 Developed and maintained custom WordPress and WooCommerce plugins
-* 🧩 Built reusable Gutenberg blocks, custom themes, and content architectures
+* 🧩 Built reusable Gutenberg blocks, custom themes, and scalable content architectures
 * 🔗 Worked extensively with REST APIs, third-party integrations, and SaaS platforms
 * 🤖 Daily user of ChatGPT, Cursor, Claude Code, and GitHub Copilot
 
@@ -32,29 +32,36 @@ I'm a Full Stack Developer focused on WordPress, WooCommerce, React, and custom 
 
 ### Backend
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 
 ### Frontend
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/backbone/backbone.png"></code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" />
 
 ### WordPress Ecosystem
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/woocommerce/woocommerce.png"></code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" />
+
+**WooCommerce · Gutenberg · ACF**
 
 ### Databases
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
 
 ### Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
 
 <br />
 
 ## Interests
 
 🧗 Rock Climbing
-💻 Open Source
+
 🤖 AI-Assisted Development
-🎮 Game Development
