@@ -1,26 +1,62 @@
 ## Hello World 👋 I'm [Kenneth Neimann!](https://github.com/kanneimann)
-I'm a Backend Developer specializing in WordPress Plugins.
+
+I'm a Full Stack Developer specializing in WordPress, WooCommerce, and custom plugin development.
+
+I enjoy building scalable solutions, creating custom integrations, and improving developer workflows with AI-assisted tools.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/neimann-kenneth/">
 <img align="left" alt="Kenneth Neimann LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
+
 <a href="https://github.com/kanneimann">
 <img align="left" alt="Kenneth Neimann GitHub" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=70c8ff" />
 </a>
 
 <br />
+<br />
 
 ## Experience
 
-- 🌎 Currently working as a **Fullstack Wordpress Plugin Developer** at [QuadLayers](https://quadlayers.com/).
+- 🌎 Full Stack Developer at **Elevation Web**
+- 🚀 Former Full Stack Developer at **QuadLayers**
+- 🔌 Developed and maintained custom WordPress and WooCommerce plugins
+- 🧩 Built reusable Gutenberg blocks and custom themes
+- 🔗 Worked extensively with REST APIs, third-party integrations, and SaaS platforms
+- 🤖 Daily user of ChatGPT, Cursor, Claude Code, and GitHub Copilot
 
 <br />
 
-## Languages and Tools
+## Technologies
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+### Backend
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+
+### Frontend
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png"></code>
+
+### WordPress Ecosystem
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/woocommerce/woocommerce.png"></code>
+
+### Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"></code>
+
+<br />
+
+## Interests
+
+🧗 Rock Climbing  
+💻 Open Source  
+🤖 AI-Assisted Development  
+🎮 Game Development
